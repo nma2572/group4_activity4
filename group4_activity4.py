@@ -1,5 +1,7 @@
 '''
-Shaikha Alghubash did: the class Article, inventory placeholder, and read data function.
+Natnael did: the class Cart and main function
+Shaikha did: the display menu and cart, and checkout
+Sayyed did: the class Article, and read data function.
 '''
 import csv
 
